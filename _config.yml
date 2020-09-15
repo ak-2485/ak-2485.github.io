@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: [Ariel Kellison]
 description: []
+logo: [Location of the logo]
+show_downloads: ["true" or "false" to indicate whether to provide a download URL]
