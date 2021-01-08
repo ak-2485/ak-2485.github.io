@@ -5,7 +5,7 @@ My research interests are in scientific computing, numerical linear algebra, and
 ### Recently
 
 + Fall 2020
-  - I will be working with the formal methods group at Sandia National Lab (CA) for summer 2021 to develop formal frameworks for error analysis. 
+  - I will be working with the formal methods group at Sandia National Lab (CA) for summer 2021 to develop formal frameworks for the analysis of high-performance numerical methods.
 + Summer 2020
   - I am attending the [Joint PPPL-Simons Summer School on Stellarator Optimization](https://hiddensymmetries.princeton.edu/summer-school/summer-school-2020/overview).
   - I am teaching [CS 1110: Introduction to Computing Using Python](https://classes.cornell.edu/browse/roster/SU20/class/CS/1110) at Cornell.
