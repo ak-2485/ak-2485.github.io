@@ -1,6 +1,6 @@
 I am  a first-year PhD student and Department of Energy Computational Science Graduate Fellow working under the supervision of [David Bindel](http://www.cs.cornell.edu/~bindel/) in the Department of Computer Science at Cornell University.
 
-My research interests are in scientific computing (particularly related to plasma physics), numerical linear algebra, and formal methods. 
+My research interests are in scientific computing (particularly for computational methods for plasma physics), numerical linear algebra, and formal methods. 
 
 I hold a B.S. with honors in astrophysics from the University of California Santa Cruz. 
 
