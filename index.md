@@ -2,8 +2,6 @@ I am  a first-year PhD student and Department of Energy Computational Science Gr
 
 My research interests are in scientific computing (in particular, computational methods for plasma physics), numerical linear algebra, and formal methods. 
 
-I hold a B.S. with honors in astrophysics from the University of California Santa Cruz. 
-
 ### Recently
 
 + Fall 2020
