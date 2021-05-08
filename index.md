@@ -1,4 +1,4 @@
-I am  a first-year PhD student and Department of Energy Computational Science Graduate Fellow working under the supervision of [David Bindel](http://www.cs.cornell.edu/~bindel/) in the Department of Computer Science at Cornell University. My research interests are in scientific computing and formal methods. 
+I am  a first-year PhD student and Department of Energy Computational Science Graduate Fellow working under the supervision of [David Bindel](http://www.cs.cornell.edu/~bindel/) in the Department of Computer Science at Cornell University. My research interests are in scientific computing and formal methods. Prior to starting my PhD, I was a research support specialist with the [NuPRL group](http://www.nuprl.org/) where I worked on [automated reasoning for intuitionsitic geometry](https://link.springer.com/article/10.1007/s10472-018-9603-0). I was also once a mathematics teacher at [Harbor High School](https://hh.sccs.net/). 
 
 ### Recently
 
