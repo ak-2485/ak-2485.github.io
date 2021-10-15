@@ -3,7 +3,7 @@ I am  a second-year PhD student and Department of Energy Computational Science G
 ### Recently
 + Fall 2021
   - My work with Silke Glas, Misha Padidar, and David Bindel on [Global Stochastic Optimization of Stellarator Coil Configurations
-] is in submission.
+](https://arxiv.org/abs/2110.07464) is in submission.
   - I am joining the Digital Foundations & Mathematics Department at Sandia National Lab (California) as a year round intern.
   - I have a new paper on a [machine-checked direct proof of the Steiner-Lehmus theorem](https://github.com/ak-2485/ak-2485.github.io/blob/master/Steiner_Lehmus_Theorem-1.pdf) in submission.
 + Summer 2021
