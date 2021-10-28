@@ -2,7 +2,7 @@ I am  a second-year PhD student in the Department of Computer Science at Cornell
 
 ### Recently
 + Fall 2021
-  - I have been invited to attend the [2021 ASCR Workshop on Cybersecurity and Privacy for Scientific Computing Ecosystems](https://web.cvent.com/event/f9a6d32d-f34c-43e5-980b-54f79ad848bc/summary) based on a position paper, “Formal Methods-based Certification Frameworks for Scientific Computing Applications”, I wrote with my colleauges at Sandia National Labs. 
+  - I have been invited to attend the [2021 ASCR Workshop on Cybersecurity and Privacy for Scientific Computing Ecosystems](https://web.cvent.com/event/f9a6d32d-f34c-43e5-980b-54f79ad848bc/summary) based on a position paper, “Formal Methods-based Certification Frameworks for Scientific Computing Applications,” I wrote with my colleauges at Sandia National Labs. 
   - My work with Silke Glas, Misha Padidar, and David Bindel on [Global Stochastic Optimization of Stellarator Coil Configurations
 ](https://arxiv.org/abs/2110.07464) is in submission.
   - I am joining the Digital Foundations & Mathematics Department at Sandia Nation Labs as a year round intern.
