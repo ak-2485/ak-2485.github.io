@@ -1,4 +1,4 @@
-I am  a second-year PhD student in the Department of Computer Science at Cornell University. My research lies at the intersection of formal methods, numerical analysis, and scientific computing. I am advised by [David Bindel](http://www.cs.cornell.edu/~bindel/), and funded by a Department of Energy Computational Science Graduate Fellowship.
+I am  a second-year PhD student in the Department of Computer Science at Cornell University. My research lies at the intersection of formal methods, numerical analysis, and scientific computing. I am advised by [David Bindel](http://www.cs.cornell.edu/~bindel/), and supported by a Department of Energy Computational Science Graduate Fellowship.
 
 ### Recently
 + Fall 2021
