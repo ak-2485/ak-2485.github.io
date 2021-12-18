@@ -1,7 +1,7 @@
 
 ### Affiliations 
 + Ph.D. student, Department of Computer Science, Cornell University [Fall 2020 - current]
-+ Graduate student intern (year-round), Digital Foundations & Mathematics Department, Sandia National Laboratories [June 2021 - current]
++ Graduate student intern, Digital Foundations & Mathematics Department, Sandia National Laboratories [June 2021 - current]
 + [Department of Energy Computational Science Graduate Fellow](https://www.krellinst.org/csgf/) [Fall 2020 - current]
 
 ### Drafts
