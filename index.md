@@ -15,7 +15,7 @@
 +  **A Machine-Checked Direct Proof of the Steiner-Lehmus Theorem**, Ariel Kellison. To appear in the Proceedings of the 11th ACM SIGPLAN International Conference on Certified Programs and Proofs ([CPP 2022](https://popl22.sigplan.org/home/CPP-2022)).
 
 ## Fellowships
-+ Department of Energy Computational Science Graduate Fellow [Fall 2020 - current]
++ Department of Energy Computational Science Graduate Fellowship [Fall 2020 - current]
 
 ## Teaching Experience 
 + Summer Instructor, Cornell CS 1110 - Introduction to Computing Using Python [Summer 2020]
