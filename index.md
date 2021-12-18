@@ -6,7 +6,7 @@
 ## Drafts
 
 ### 2021
-+  **Global Stochastic Optimization of Stellarator Coil Configurations**, Silke Glas, Misha Padidar, Ariel Kellison, and David Bindel [[Paper].(https://arxiv.org/abs/2110.07464)]
++  **Global Stochastic Optimization of Stellarator Coil Configurations**, Silke Glas, Misha Padidar, Ariel Kellison, and David Bindel [[Paper](https://arxiv.org/abs/2110.07464)].
 
 ## Publications
 
