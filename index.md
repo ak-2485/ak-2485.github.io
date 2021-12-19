@@ -18,4 +18,4 @@
 + Department of Energy Computational Science Graduate Fellowship [Fall 2020 - current]
 
 ## Teaching Experience 
-+ Summer Instructor, Cornell CS 1110 - Introduction to Computing Using Python [Summer 2020]
++ Summer Lecturer, Cornell CS 1110 - Introduction to Computing Using Python [Summer 2020]
