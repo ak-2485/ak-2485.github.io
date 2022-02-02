@@ -22,4 +22,4 @@ I am happy to share my fellowship application materials if you are considering a
 + Many years ago I was a math teacher at Harbor High School in Santa Cruz, California. I am always happy to hear from my former students.
 
 ## Education 
-+ I hold a BS with honors in astrophysics from UC Santa Cruz. I completed my graduate studies in mathematics and science education at Humboldt State University. 
+I hold a BS with honors in astrophysics from UC Santa Cruz. I completed my graduate studies in mathematics and science education at Humboldt State University. 
