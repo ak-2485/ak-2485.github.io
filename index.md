@@ -5,9 +5,6 @@
 
 ## Drafts
 
-### 2022
-+ Hopefully something soon!
-
 ## Publications
 
 ### 2022
