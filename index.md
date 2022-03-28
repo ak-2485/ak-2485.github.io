@@ -13,7 +13,7 @@
 
 ### 2021
 
-+ **Formal methods-based certification frameworks for scientific computing applications**. Ariel Kellison, Geoff C. Hulette, John Bender, Samuel D. Pollard, and Heidi K. Thornquist. ASCR Workshop on Cybersecurity and Privacy for Scientific Computing Ecosystems, U.S. Department of Energy, Office of Advanced Scientific Computing Research, November 2021.
++ **Formal Methods-Based Certification Frameworks for Scientific Computing Applications**. Ariel Kellison, Geoff C. Hulette, John Bender, Samuel D. Pollard, and Heidi K. Thornquist. ASCR Workshop on Cybersecurity and Privacy for Scientific Computing Ecosystems, U.S. Department of Energy, Office of Advanced Scientific Computing Research, November 2021.
 
 ## Fellowships
 + Department of Energy Computational Science Graduate Fellowship [Fall 2020 - current]
