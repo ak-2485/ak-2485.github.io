@@ -6,14 +6,14 @@
 ## Publications
 
 ### 2022
-+  **Global Stochastic Optimization of Stellarator Coil Configurations**. Silke Glas, Misha Padidar, **Ariel Kellison**, and David Bindel [[Paper](https://arxiv.org/abs/2110.07464)]. To appear in the Journal of Plasma Physics.
-+  **A Machine-Checked Direct Proof of the Steiner-Lehmus Theorem**. **Ariel Kellison**. To appear in the Proceedings of the 11th ACM SIGPLAN International Conference on Certified Programs and Proofs ([CPP 2022](https://popl22.sigplan.org/home/CPP-2022))[[Paper](https://arxiv.org/abs/2112.11182)].
++  **Global Stochastic Optimization of Stellarator Coil Configurations**. Silke Glas, Misha Padidar, Ariel Kellison, and David Bindel [[Paper](https://arxiv.org/abs/2110.07464)]. To appear in the Journal of Plasma Physics.
++  **A Machine-Checked Direct Proof of the Steiner-Lehmus Theorem**. Ariel Kellison. To appear in the Proceedings of the 11th ACM SIGPLAN International Conference on Certified Programs and Proofs ([CPP 2022](https://popl22.sigplan.org/home/CPP-2022))[[Paper](https://arxiv.org/abs/2112.11182)].
 
 ## Position Papers
 
 ### 2021
 
-+ **Formal Methods-Based Certification Frameworks for Scientific Computing Applications**. **Ariel Kellison**, Geoff C. Hulette, John Bender, Samuel D. Pollard, and Heidi K. Thornquist. ASCR Workshop on Cybersecurity and Privacy for Scientific Computing Ecosystems, U.S. Department of Energy, Office of Advanced Scientific Computing Research, November 2021.
++ **Formal Methods-Based Certification Frameworks for Scientific Computing Applications**. Ariel Kellison, Geoff C. Hulette, John Bender, Samuel D. Pollard, and Heidi K. Thornquist. ASCR Workshop on Cybersecurity and Privacy for Scientific Computing Ecosystems, U.S. Department of Energy, Office of Advanced Scientific Computing Research, November 2021.
 
 ## Fellowships
 + Department of Energy Computational Science Graduate Fellowship [Fall 2020 - current]
