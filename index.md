@@ -18,8 +18,6 @@
 ## Fellowships
 + Department of Energy Computational Science Graduate Fellowship [Fall 2020 - current]
 
-I am happy to share my fellowship application materials if you are considering applying for the CSGF. Please don't hesitate to email me for this information.
-
 ## Teaching Experience 
 + Summer Lecturer, Cornell CS 1110 - Introduction to Computing Using Python [Summer 2020]
 
