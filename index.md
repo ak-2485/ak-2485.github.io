@@ -9,8 +9,8 @@
 ## Publications
 
 ### 2022
-+  **Global Stochastic Optimization of Stellarator Coil Configurations**. Silke Glas, Misha Padidar, Ariel Kellison, and David Bindel. Journal of Plasma Physics. [[Paper](https://arxiv.org/abs/2110.07464)].
-+  **A Machine-Checked Direct Proof of the Steiner-Lehmus Theorem**. Ariel Kellison. In Proceedings of the 11th ACM SIGPLAN International Conference on Certified Programs and Proofs ([CPP 2022](https://popl22.sigplan.org/home/CPP-2022))[[Paper](https://arxiv.org/abs/2112.11182)].
++  **Global Stochastic Optimization of Stellarator Coil Configurations**. Silke Glas, Misha Padidar, Ariel E. Kellison, and David Bindel. Journal of Plasma Physics. [[Paper](https://arxiv.org/abs/2110.07464)].
++  **A Machine-Checked Direct Proof of the Steiner-Lehmus Theorem**. Ariel E. Kellison. In Proceedings of the 11th ACM SIGPLAN International Conference on Certified Programs and Proofs ([CPP 2022](https://popl22.sigplan.org/home/CPP-2022))[[Paper](https://arxiv.org/abs/2112.11182)].
 
 ## Workshops
 
