@@ -3,9 +3,6 @@
 + Ph.D. student, Department of Computer Science, Cornell University [Fall 2020 - current]. Advisor: [David Bindel](https://www.cs.cornell.edu/~bindel/).
 + Graduate student intern, Digital Foundations & Mathematics Department, Sandia National Laboratories [June 2021 - current]
 
-## Drafts
-+ **Verified Numerical Methods for Ordinary Differential Equations**. Ariel E. Kellison, Andrew W. Appel. May 2022. [[Draft](https://github.com/ak-2485/ak-2485.github.io/blob/master/main.pdf)].
-
 ## Publications
 
 ### 2022
