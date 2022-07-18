@@ -1,7 +1,8 @@
 
-I am a Ph.D. student in computer science at Cornell University, co-advised by [David Bindel](https://www.cs.cornell.edu/~bindel/) and [Andrew Appel (Princeton)](https://www.cs.princeton.edu/~appel/). The primary focus of my research is program verification for scientific and high-performance computing software. 
+I am a Ph.D. student in computer science at Cornell University, co-advised by [David Binde (Cornell](https://www.cs.cornell.edu/~bindel/) and [Andrew Appel (Princeton)](https://www.cs.princeton.edu/~appel/). The primary focus of my research is program verification for scientific and high-performance computing software. 
 
 ## Affiliations 
+
 + Ph.D. student, Department of Computer Science, Cornell University [Fall 2020 - current]. Advisor: [David Bindel](https://www.cs.cornell.edu/~bindel/).
 + Graduate student intern, Digital Foundations & Mathematics Department, Sandia National Laboratories [June 2021 - current]
 
