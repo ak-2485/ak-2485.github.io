@@ -5,7 +5,7 @@ I am a Ph.D. student in computer science at Cornell University, co-advised by [D
 + Ph.D. student, Department of Computer Science, Cornell University [Fall 2020 - current]. Advisor: [David Bindel](https://www.cs.cornell.edu/~bindel/).
 + Graduate student intern, Digital Foundations & Mathematics Department, Sandia National Laboratories [June 2021 - current]
 
-## Publications
+## Bibliography
 **2022**\.  **Verified Numerical Methods for Ordinary Differential Equations**. Ariel E. Kellison and Andrew W. Appel. NSV'22: 15th International Workshop on Numerical Software Verification, August 2022. [[Paper](https://github.com/VeriNum/VerifiedLeapfrog/raw/main/Paper.pdf)]
 
 **2022**\.  **Global Stochastic Optimization of Stellarator Coil Configurations**. Silke Glas, Misha Padidar, Ariel E. Kellison, and David Bindel. Journal of Plasma Physics. [[Paper](https://arxiv.org/abs/2110.07464)]
