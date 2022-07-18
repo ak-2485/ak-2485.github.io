@@ -12,7 +12,7 @@ I am a Ph.D. student in computer science at Cornell University, co-advised by [D
 
 **2022**\.  **A Machine-Checked Direct Proof of the Steiner-Lehmus Theorem**. Ariel E. Kellison. In Proceedings of the 11th ACM SIGPLAN International Conference on Certified Programs and Proofs ([CPP 2022](https://popl22.sigplan.org/home/CPP-2022))[[Paper](https://arxiv.org/abs/2112.11182)]
 
-**2021**\.  **Formal Methods-Based Certification Frameworks for Scientific Computing Applications**. ASCR Workshop on Cybersecurity and Privacy for Scientific Computing Ecosystems, U.S. Department of Energy, Office of Advanced Scientific Computing Research, November 2021. Ariel Kellison, Geoff C. Hulette, John Bender, Samuel D. Pollard, and Heidi K. Thornquist.
+**2021**\.  **Formal Methods-Based Certification Frameworks for Scientific Computing Applications**. Ariel Kellison, Geoff C. Hulette, John Bender, Samuel D. Pollard, and Heidi K. Thornquist. ASCR Workshop on Cybersecurity and Privacy for Scientific Computing Ecosystems, U.S. Department of Energy, Office of Advanced Scientific Computing Research, November 2021.
 
 **2019**\.  **Implementing Euclid’s Straightedge and Compass Constructions in Type Theory**. Ariel E. Kellison, Mark Bickford, and Robert Constable. Annals of Mathematics and Artificial Intelligence. [[Paper](https://www.nuprl.org/documents/Kellison/implementing-euclid.pdf)]
 
