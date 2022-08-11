@@ -7,7 +7,7 @@ I am a Ph.D. student in computer science at Cornell University, co-advised by [D
 + Graduate student intern, Digital Foundations & Mathematics Department, Sandia National Laboratories [June 2021 - current]
 
 ## Bibliography
-**2022**\.  **Verified Numerical Methods for Ordinary Differential Equations**. Ariel E. Kellison and Andrew W. Appel. NSV'22: 15th International Workshop on Numerical Software Verification, August 2022. [[Paper](https://github.com/VeriNum/VerifiedLeapfrog/raw/main/Paper.pdf)]
+**2022**\.  **Verified Numerical Methods for Ordinary Differential Equations**. Ariel E. Kellison and Andrew W. Appel. NSV'22: 15th International Workshop on Numerical Software Verification, August 2022. [[Paper](https://github.com/VeriNum/VerifiedLeapfrog/raw/main/Paper.pdf)][[Talk](<iframe src="https://cornellprod-my.sharepoint.com/personal/ak2485_cornell_edu/_layouts/15/Doc.aspx?sourcedoc={08d2017a-7492-4615-a05c-c48abe7684c2}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>)]
 
 **2022**\.  **Global Stochastic Optimization of Stellarator Coil Configurations**. Silke Glas, Misha Padidar, Ariel E. Kellison, and David Bindel. Journal of Plasma Physics. [[Paper](https://arxiv.org/abs/2110.07464)]
 
