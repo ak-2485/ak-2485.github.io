@@ -1,5 +1,5 @@
 
-I am a Ph.D. student in computer science at Cornell University, co-advised by [David Bindel (Cornell)](https://www.cs.cornell.edu/~bindel/) and [Andrew Appel (Princeton)](https://www.cs.princeton.edu/~appel/). My current research primarily focuses on applying formal methods techniques to scientific and numerical software. More broadly, I'm interested in developing and using automated and interactive proof systems for program verification, and applying these systems to scientific computing software stacks. 
+I am a Ph.D. student in computer science at Cornell University, co-advised by [David Bindel (Cornell)](https://www.cs.cornell.edu/~bindel/) and [Andrew Appel (Princeton)](https://www.cs.princeton.edu/~appel/). My current research primarily focuses on applying formal methods techniques to numerical software. More broadly, I'm interested in developing and using automated and interactive proof systems for program verification, and applying these systems to scientific computing software stacks. 
 
 ## Affiliations 
 
