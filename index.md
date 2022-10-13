@@ -1,5 +1,5 @@
 
-I am a Ph.D. student in computer science at Cornell University, co-advised by [David Bindel (Cornell)](https://www.cs.cornell.edu/~bindel/) and [Andrew Appel (Princeton)](https://www.cs.princeton.edu/~appel/). My current research primarily focuses on applying formal methods techniques to scientific and numerical software. 
+I am a Ph.D. student in computer science at Cornell University, co-advised by [David Bindel (Cornell)](https://www.cs.cornell.edu/~bindel/) and [Andrew Appel (Princeton)](https://www.cs.princeton.edu/~appel/). My current research primarily focuses on applying formal methods techniques to scientific and numerical software. More broadly, I'm interested in developing and using automated and interactive proof systems for program verification, and applying these systems to scientific computing software stacks. 
 
 ## Affiliations 
 
@@ -7,6 +7,8 @@ I am a Ph.D. student in computer science at Cornell University, co-advised by [D
 + Graduate student intern, Digital Foundations & Mathematics Department, Sandia National Laboratories [June 2021 - current]
 
 ## Bibliography
+**2022**\. **Towards Verified Rounding-Error Analysis for Stationary Iterative Methods**. Ariel E. Kellison, Mohit Tekriwal, Jean-Baptiste Jeannin, and Geoffrey Hulette. Correctness 2022: Sixth International Workshop on Software Correctness for HPC Applications, November 2022. 
+
 **2022**\.  **Verified Numerical Methods for Ordinary Differential Equations**. Ariel E. Kellison and Andrew W. Appel. NSV'22: 15th International Workshop on Numerical Software Verification, August 2022. [[Paper](https://github.com/VeriNum/VerifiedLeapfrog/raw/main/Paper.pdf)]
 
 **2022**\.  **Global Stochastic Optimization of Stellarator Coil Configurations**. Silke Glas, Misha Padidar, Ariel E. Kellison, and David Bindel. Journal of Plasma Physics. [[Paper](https://arxiv.org/abs/2110.07464)]
