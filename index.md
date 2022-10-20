@@ -7,6 +7,8 @@ I am a Ph.D. student in computer science at Cornell University, co-advised by [D
 + Graduate student intern, Digital Foundations & Mathematics Department, Sandia National Laboratories [June 2021 - current]
 
 ## Bibliography
+**2022**\. **VCFloat2: Floating-point Error Analysis in Coq**. Andrew W. Appel and Ariel E. Kellison. In Submission. [[Draft](https://github.com/ak-2485/ak-2485.github.io/blob/master/vcfloat2.pdf)]
+
 **2022**\. **Towards Verified Rounding-Error Analysis for Stationary Iterative Methods**. Ariel E. Kellison, Mohit Tekriwal, Jean-Baptiste Jeannin, and Geoffrey Hulette. *Correctness 2022: Sixth International Workshop on Software Correctness for HPC Applications*, November 2022. [[Paper](https://github.com/VeriNum/iterative_methods/blob/main/correctness_workshop_paper.pdf)]
 
 **2022**\.  **Verified Numerical Methods for Ordinary Differential Equations**. Ariel E. Kellison and Andrew W. Appel. *NSV'22: 15th International Workshop on Numerical Software Verification*, August 2022. [[Paper](https://github.com/VeriNum/VerifiedLeapfrog/raw/main/Paper.pdf)]
