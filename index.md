@@ -3,7 +3,7 @@ I am a PhD candidate in computer science at Cornell University, co-advised by [D
 
 ## Affiliations 
 
-+ Ph.D. student, Department of Computer Science, Cornell University [Fall 2020 - current]. Advisor: [David Bindel](https://www.cs.cornell.edu/~bindel/).
++ PhD student, Department of Computer Science, Cornell University [Fall 2020 - current]. Advisor: [David Bindel](https://www.cs.cornell.edu/~bindel/).
 + Graduate student intern, Digital Foundations & Mathematics Department, Sandia National Laboratories [June 2021 - current]
 
 ## Drafts
