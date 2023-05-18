@@ -1,5 +1,5 @@
 
-I am a PhD candidate in computer science at Cornell University, co-advised by [David Bindel (Cornell)](https://www.cs.cornell.edu/~bindel/) and [Andrew Appel (Princeton)](https://www.cs.princeton.edu/~appel/). My current research primarily focuses on applying techniques from formal methods and programming languages to reason about the accuracy and correctness of numerical software. As part of the [VeriNum](https://verinum.org/) research group, I help develop and maintain the [VCFloat](https://github.com/VeriNum/vcfloat) and [LAProof](https://github.com/VeriNum/LAProof](https://verinum.org/) libraries for the [Coq Proof Assistant](https://coq.inria.fr/).  
+I am a PhD candidate in computer science at Cornell University, co-advised by [David Bindel (Cornell)](https://www.cs.cornell.edu/~bindel/) and [Andrew Appel (Princeton)](https://www.cs.princeton.edu/~appel/). My current research primarily focuses on applying techniques from formal methods and programming languages to reason about the accuracy and correctness of numerical software. As part of the [VeriNum](https://verinum.org/) research group, I help develop and maintain the [VCFloat](https://github.com/VeriNum/vcfloat) and [LAProof](https://verinum.org/) libraries for the [Coq Proof Assistant](https://coq.inria.fr/).  
 
 ## Affiliations 
 
