@@ -33,7 +33,7 @@ I am a PhD candidate in computer science at Cornell University, co-advised by [D
 **2021**\.  **Formal Methods-Based Certification Frameworks for Scientific Computing Applications**. Ariel Kellison, Geoff C. Hulette, John Bender, Samuel D. Pollard, and Heidi K. Thornquist. *ASCR Workshop on Cybersecurity and Privacy for Scientific Computing Ecosystems, U.S. Department of Energy, Office of Advanced Scientific Computing Research*, November 2021.
 
 ## Fellowships
-+ Department of Energy Computational Science Graduate Fellowship [Fall 2020 - current]
++ [Department of Energy Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/) [Fall 2020 - current]
 
 ## Teaching Experience 
 + Summer Lecturer, Cornell CS 1110 - Introduction to Computing Using Python [Summer 2020]
