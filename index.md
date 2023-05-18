@@ -8,7 +8,7 @@ I am a PhD candidate in computer science at Cornell University, co-advised by [D
 
 ## Drafts
 
-**LAProof: a library of formal proofs of accuracy and correctness for linear algebra programs**. Ariel E. Kellison, Andrew W. Appel, Mohit Tekriwal, and David Bindel. 
+**LAProof: A Library of Formal Proofs of Accuracy and Correctness for Linear Algebra Programs**. Ariel E. Kellison, Andrew W. Appel, Mohit Tekriwal, and David Bindel. 
 
 **Verified Correctness, Accuracy, and Convergence of a Stationary Iterative Linear Solver: Jacobi Method**. Mohit Tekriwal, Andrew W. Appel, Ariel E. Kellison, Jean-Baptiste Jeannin, David Bindel. 
 
