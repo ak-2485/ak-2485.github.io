@@ -28,7 +28,7 @@ I am a PhD candidate in computer science at Cornell University, co-advised by [D
 
 **2022**\.  **Verified Numerical Methods for Ordinary Differential Equations**. Ariel E. Kellison and Andrew W. Appel. *NSV'22: 15th International Workshop on Numerical Software Verification*, August 2022. [[Paper](https://github.com/VeriNum/VerifiedLeapfrog/raw/main/Paper.pdf)]
 
-**2021**\. **Real(istic) Specifications of Software** Samuel D. Pollard, Ariel Kellison, John Bender, and Geoffrey C. Hulette. *ASCR Workshop on the Science of Scientific-Software Development and Use, U.S. Department of Energy, Office of Advanced Scientific Computing Research*, December 2021. 
+**2021**\. **Real(istic) Specifications of Software**. Samuel D. Pollard, Ariel Kellison, John Bender, and Geoffrey C. Hulette. *ASCR Workshop on the Science of Scientific-Software Development and Use, U.S. Department of Energy, Office of Advanced Scientific Computing Research*, December 2021. 
 
 **2021**\.  **Formal Methods-Based Certification Frameworks for Scientific Computing Applications**. Ariel Kellison, Geoff C. Hulette, John Bender, Samuel D. Pollard, and Heidi K. Thornquist. *ASCR Workshop on Cybersecurity and Privacy for Scientific Computing Ecosystems, U.S. Department of Energy, Office of Advanced Scientific Computing Research*, November 2021.
 
