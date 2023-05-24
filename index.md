@@ -39,4 +39,5 @@ I am a PhD candidate in computer science at Cornell University, co-advised by [D
 + Summer Lecturer, Cornell CS 1110 - Introduction to Computing Using Python [Summer 2020]
 
 ## Education 
-I hold a BS with honors in astrophysics from UC Santa Cruz.
++ Single subject teaching credentials in mathematics and science (physics) from California State Polytechnic University, Humboldt 
++ BSc with honors in astrophysics from UC Santa Cruz.
