@@ -14,9 +14,9 @@ I am a PhD candidate in computer science at Cornell University, co-advised by [D
 
 ## Conference & Journal Papers
 
-**2023**\.  **LAProof: A Library of Formal Proofs of Accuracy and Correctness for Linear Algebra Programs**. Ariel E. Kellison, Andrew W. Appel, Mohit Tekriwal, and David Bindel. *To appear in proceedings of the 30th IEEE International Symposium on Computer Arithmetic (ARITH), September 2023.*. [[Paper](https://github.com/ak-2485/ak-2485.github.io/blob/master/laproof.pdf)]
+**2023**\.  **LAProof: A Library of Formal Proofs of Accuracy and Correctness for Linear Algebra Programs**. Ariel E. Kellison, Andrew W. Appel, Mohit Tekriwal, and David Bindel. *To appear in proceedings of the 30th IEEE International Symposium on Computer Arithmetic (ARITH), September 2023*. [[Paper](https://github.com/ak-2485/ak-2485.github.io/blob/master/laproof.pdf)]
 
-**2023**\.  **Verified Correctness, Accuracy, and Convergence of a Stationary Iterative Linear Solver: Jacobi Method**. Mohit Tekriwal, Andrew W. Appel, Ariel E. Kellison, Jean-Baptiste Jeannin, and David Bindel. *To appear in proceedings of the 16th Conference on Intelligent Computer Mathematics (CICM), September 2023.*. [[Paper](https://www.cs.princeton.edu/~appel/papers/jacobi.pdf)]
+**2023**\.  **Verified Correctness, Accuracy, and Convergence of a Stationary Iterative Linear Solver: Jacobi Method**. Mohit Tekriwal, Andrew W. Appel, Ariel E. Kellison, Jean-Baptiste Jeannin, and David Bindel. *To appear in proceedings of the 16th Conference on Intelligent Computer Mathematics (CICM), September 2023*. [[Paper](https://www.cs.princeton.edu/~appel/papers/jacobi.pdf)]
 
 **2022**\.  **Global Stochastic Optimization of Stellarator Coil Configurations**. Silke Glas, Misha Padidar, Ariel E. Kellison, and David Bindel. *Journal of Plasma Physics*. [[Paper](https://arxiv.org/abs/2110.07464)]
 
