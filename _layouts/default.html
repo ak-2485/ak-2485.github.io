@@ -18,14 +18,7 @@
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
-        <img src="{{site.logo | relative_url}}" alt="Logo" />
-        <p><div align="right">O dear Ophelia!<br>I am ill at these numbers:<br>I have not art to reckon my groans.<br>-Hamlet (Act II, Scene 2, Line 120)</div></p>
-        <a href="https://verinum.org/"> <img src="logo_only.png" width="190" height="143" /> </a>
-        {% endif %}
-
-      
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+        <img src="{{site.logo | relative_url}}" alt="Logo" /> 
         {% endif %}
 
         {% if site.github.is_user_page %}
@@ -49,7 +42,6 @@
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small>a minor modification of a Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
