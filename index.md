@@ -12,9 +12,9 @@ I can be reached by email at [ak2485@cornell.edu](mailto:ak2485@cornell.edu).
 
 **A Type System for Numerical Error Analysis**. Ariel E. Kellison and Justin Hsu. [Paper Draft](https://github.com/ak-2485/ak-2485.github.io/blob/master/nfuzz.pdf).
 
-**VCFloat2: Floating-point Error Analysis in Coq**. Andrew W. Appel and Ariel E. Kellison.
-
 ## Conference & Journal Papers
+
+**2024**\. **VCFloat2: Floating-point Error Analysis in Coq**. Andrew W. Appel and Ariel E. Kellison. *To appear in the proceedings of the 13th ACM SIGPLAN International Conference on Certified Programs and Proofs (CPP 2024), January 2024*.
 
 **2023**\.  **LAProof: A Library of Formal Proofs of Accuracy and Correctness for Linear Algebra Programs**. Ariel E. Kellison, Andrew W. Appel, Mohit Tekriwal, and David Bindel. *To appear in proceedings of the 30th IEEE International Symposium on Computer Arithmetic (ARITH), September 2023*. [[Paper](https://github.com/ak-2485/ak-2485.github.io/blob/master/laproof.pdf)]
 
