@@ -10,7 +10,7 @@ I can be reached by email at [ak2485@cornell.edu](mailto:ak2485@cornell.edu).
 
 ## Drafts
 
-**A Type System for Numerical Error Analysis**. Ariel E. Kellison and Justin Hsu.
+**A Type System for Numerical Error Analysis**. Ariel E. Kellison and Justin Hsu. [Paper Draft](https://github.com/ak-2485/ak-2485.github.io/blob/master/nfuzz.pdf).
 
 **VCFloat2: Floating-point Error Analysis in Coq**. Andrew W. Appel and Ariel E. Kellison.
 
