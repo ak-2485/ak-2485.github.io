@@ -9,11 +9,11 @@ I can be reached by email at [ak2485@cornell.edu](mailto:ak2485@cornell.edu).
 
 ## Selected Publications
 
-**2024**\. **Numerical Fuzz: A Type System for Rounding Error Analysis**. Ariel E. Kellison and Justin Hsu. *To appear in the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), Copenhagen, Denmark.*.
+**2024**\. **Numerical Fuzz: A Type System for Rounding Error Analysis**. Ariel E. Kellison and Justin Hsu. *To appear in the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), Copenhagen, Denmark*.
 
 **2024**\. **VCFloat2: Floating-point Error Analysis in Coq**. Andrew W. Appel and Ariel E. Kellison. *In proceedings of the 13th ACM SIGPLAN International Conference on Certified Programs and Proofs (CPP), London, UK*.
 
-**2023**\.  **LAProof: A Library of Formal Proofs of Accuracy and Correctness for Linear Algebra Programs**. Ariel E. Kellison, Andrew W. Appel, Mohit Tekriwal, and David Bindel. *In proceedings of the 30th IEEE International Symposium on Computer Arithmetic (ARITH), Portland, OR, USA*. [[Paper](https://github.com/ak-2485/ak-2485.github.io/blob/master/laproof.pdf)]
+**2023**\.  **LAProof: A Library of Formal Proofs of Accuracy and Correctness for Linear Algebra Programs**. Ariel E. Kellison, Andrew W. Appel, Mohit Tekriwal, and David Bindel. *In proceedings of the 30th IEEE International Symposium on Computer Arithmetic (ARITH), Portland, OR, USA*. [[PDF](https://github.com/ak-2485/ak-2485.github.io/blob/master/laproof.pdf)].
 
 ## Selected Reports
 
