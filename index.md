@@ -17,7 +17,7 @@ I can be reached by email at [ak2485@cornell.edu](mailto:ak2485@cornell.edu).
 
 ## Selected Reports
 
-**2024**\. **The first tri-lab workshop on formal verification: Capabilities, challenges, research opportunities, and exemplars**. S. D. Pollard, J. M. Aytac, A. Kellison, I. Laguna, S. Nedunuri, S. Reis, M. J. Sottile, and H. K. Thornquist. Technical report, Sandia National Laboratories. [[PDF](https://www.sandia.gov/app/uploads/sites/222/2024/02/twofv23_report.pdf)]
+**2024**\. **The first tri-lab workshop on formal verification: Capabilities, challenges, research opportunities, and exemplars**. S. D. Pollard, J. M. Aytac, A. Kellison, I. Laguna, S. Nedunuri, S. Reis, M. J. Sottile, and H. K. Thornquist. Technical report, Sandia National Laboratories. [[PDF](https://www.sandia.gov/app/uploads/sites/222/2024/02/twofv23_report.pdf)].
 
 ## Fellowships
 + [Department of Energy Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/) [Fall 2020 - current]
