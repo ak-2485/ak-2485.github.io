@@ -9,7 +9,7 @@ I can be reached by email at [ak2485@cornell.edu](mailto:ak2485@cornell.edu).
 
 ## Selected Publications
 
-**2024**\. **Numerical Fuzz: A Type System for Rounding Error Analysis**. Ariel E. Kellison and Justin Hsu. *To appear in the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), Copenhagen, Denmark*. [[Paper](https://github.com/ak-2485/ak-2485.github.io/blob/master/numfuzz.pdf)]
+**2024**\. **Numerical Fuzz: A Type System for Rounding Error Analysis**. Ariel E. Kellison and Justin Hsu. *To appear in the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), Copenhagen, Denmark*. [[Paper](https://arxiv.org/abs/2405.04612)]
 
 **2024**\. **VCFloat2: Floating-point Error Analysis in Coq**. Andrew W. Appel and Ariel E. Kellison. *In proceedings of the 13th ACM SIGPLAN International Conference on Certified Programs and Proofs (CPP), London, UK*. [[Paper](https://dl.acm.org/doi/10.1145/3636501.3636953)]
 
