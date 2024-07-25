@@ -1,10 +1,13 @@
-I am a Ph.D. candidate in computer science at Cornell University, co-advised by [David Bindel (Cornell)](https://www.cs.cornell.edu/~bindel/) and [Andrew Appel (Princeton)](https://www.cs.princeton.edu/~appel/). I develop methods to formally guarantee the accuracy and correctness of numerical software. As part of the [VeriNum](https://verinum.org/) research group, I maintain the [VCFloat](https://github.com/VeriNum/vcfloat) and [LAProof](https://github.com/VeriNum/LAProof) libraries for the [Coq Proof Assistant](https://coq.inria.fr/).
+I am a Department of Energy Computational Science Graduate Fellow and PhD candidate at Cornell University working on formal methods, programming languages, and computer arithmetic. I design foundational tools with rigorous guarantees that make it convenient for programmers to reason about numerical accuracy and correctness.
+As part of the [VeriNum](https://verinum.org/) research group, I maintain the [VCFloat](https://github.com/VeriNum/vcfloat) and [LAProof](https://github.com/VeriNum/LAProof) libraries for the [Coq Proof Assistant](https://coq.inria.fr/).
+
+I am fortunate to be co-advised by [David Bindel (Cornell)](https://www.cs.cornell.edu/~bindel/) and [Andrew Appel (Princeton)](https://www.cs.princeton.edu/~appel/). 
 
 I can be reached by email at [ak2485@cornell.edu](mailto:ak2485@cornell.edu). 
 
 ## Affiliations 
 
-+ Ph.D. student, Department of Computer Science, Cornell University [Fall 2020 - current]. Advisor: [David Bindel](https://www.cs.cornell.edu/~bindel/).
++ Ph.D. student, Department of Computer Science, Cornell University [Fall 2020 - current]. Advisor: [David Bindel](https://www.cs.cornell.edu/~bindel/)
 + Graduate student intern, Digital Foundations & Mathematics Department, Sandia National Laboratories [June 2021 - current]
 
 ## Selected Publications
