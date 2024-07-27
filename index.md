@@ -10,7 +10,7 @@ I can be reached by email at [ak2485@cornell.edu](mailto:ak2485@cornell.edu).
 + Ph.D. student, Department of Computer Science, Cornell University [Fall 2020 - current]. Advisor: [David Bindel](https://www.cs.cornell.edu/~bindel/)
 + Graduate student intern, Digital Foundations & Mathematics Department, Sandia National Laboratories [June 2021 - current]
 
-## Selected Publications
+## Selected Publications <a href="https://scholar.google.com/citations?user=C3_45lIAAAAJ&hl=en"><span class="icon icon-link icon--google-scholar">{% include icon-google-scholar.svg %}</span></a>
 
 **2024**\. **Numerical Fuzz: A Type System for Rounding Error Analysis**. Ariel E. Kellison and Justin Hsu. *To appear in the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), Copenhagen, Denmark*. [[Paper](https://arxiv.org/abs/2405.04612)]
 
