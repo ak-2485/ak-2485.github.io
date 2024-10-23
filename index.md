@@ -1,6 +1,6 @@
-I am finishing my PhD in computer science at Cornell University in Fall 2025! 
-I design foundational tools with rigorous guarantees that make it convenient for programmers to reason about numerical accuracy and correctness. 
-As part of the [VeriNum](https://verinum.org/) research group, I maintain the [VCFloat](https://github.com/VeriNum/vcfloat) and [LAProof](https://github.com/VeriNum/LAProof) libraries for the [Coq Proof Assistant](https://coq.inria.fr/).
+I am finishing my PhD in computer science at Cornell in fall 2025! 
+
+I design foundational tools with rigorous guarantees that make it convenient for programmers to reason about numerical accuracy and correctness.  As part of the [VeriNum](https://verinum.org/) research group, I maintain the [VCFloat](https://github.com/VeriNum/vcfloat) and [LAProof](https://github.com/VeriNum/LAProof) libraries for the [Coq Proof Assistant](https://coq.inria.fr/).
 
 During my PhD, I was co-advised by [David Bindel (Cornell)](https://www.cs.cornell.edu/~bindel/) and [Andrew Appel (Princeton)](https://www.cs.princeton.edu/~appel/). 
 
