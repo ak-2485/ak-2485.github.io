@@ -34,4 +34,4 @@ I can be reached by email at [ak2485@cornell.edu](mailto:ak2485@cornell.edu).
 + Lecturer, Cornell CS 1110 - Introduction to Computing Using Python [Summer 2020]
 
 ## Education 
-+ BSc with honors in astrophysics from UC Santa Cruz.
++ BSc with honors in astrophysics from UC Santa Cruz
