@@ -8,7 +8,7 @@ I can be reached by email at [ak2485@cornell.edu](mailto:ak2485@cornell.edu).
 
 ## Affiliations 
 
-+ PhD student, Department of Computer Science, Cornell University [fall 2020 - fall 2024]. Adviser: [David Bindel](https://www.cs.cornell.edu/~bindel/)
++ PhD student, Department of Computer Science, Cornell University [fall 2020 - fall 2024]. Advisor: [David Bindel](https://www.cs.cornell.edu/~bindel/)
 + Graduate student intern, Digital Foundations & Mathematics Department, Sandia National Laboratories [June 2021 - current]
 
 ## Drafts and Ongoing Work 
