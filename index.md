@@ -13,7 +13,7 @@ I can be reached by email at [ak2485@cornell.edu](mailto:ak2485@cornell.edu).
 
 ## Drafts and Ongoing Work 
 
-**2024**\. **A New View on Backward Error**. Ariel E. Kellison, Laura Zielinksi, and Justin Hsu.
+**2024**\. **Bean: A Language for Backward Error Analysis**. Ariel E. Kellison, Laura Zielinksi, David Bindel, and Justin Hsu.
 
 ## Selected Publications
 
