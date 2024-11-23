@@ -1,4 +1,4 @@
-I am finishing my PhD in computer science at Cornell in fall 2024! I'll be joining the Digital Foundations & Mathematics Department at Sandia National Laboratories as a postdoctoral researcher in December of 2024. 
+I defended my thesis on typed-based approaches to rounding error analysis at Cornell in November, 2024. I'm on the research scientist and academic job market.
 
 I design foundational tools with rigorous guarantees that make it convenient for programmers to reason about numerical accuracy and correctness.  As part of the [VeriNum](https://verinum.org/) research group, I maintain the [VCFloat](https://github.com/VeriNum/vcfloat) and [LAProof](https://github.com/VeriNum/LAProof) libraries for the [Coq Proof Assistant](https://coq.inria.fr/).
 
@@ -8,8 +8,9 @@ I can be reached by email at [ak2485@cornell.edu](mailto:ak2485@cornell.edu).
 
 ## Affiliations 
 
++ Postdoctoral Researcher, Digital Foundations & Mathematics Department, Sandia National Laboratories [December 2024 - ]. 
 + PhD student, Department of Computer Science, Cornell University [fall 2020 - fall 2024]. Advisor: [David Bindel](https://www.cs.cornell.edu/~bindel/)
-+ Graduate student intern, Digital Foundations & Mathematics Department, Sandia National Laboratories [June 2021 - current]
++ Graduate student intern, Digital Foundations & Mathematics Department, Sandia National Laboratories [June 2021 - November 2024]
 
 ## Drafts and Ongoing Work 
 
