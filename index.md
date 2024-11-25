@@ -1,4 +1,4 @@
-I defended my thesis on typed-based approaches to rounding error analysis at Cornell in November, 2024. I'm on the research scientist and academic job market.
+I defended my thesis on typed-based approaches to rounding error analysis at Cornell in November, 2024. 
 
 I design foundational tools with rigorous guarantees that make it convenient for programmers to reason about numerical accuracy and correctness.  As part of the [VeriNum](https://verinum.org/) research group, I maintain the [VCFloat](https://github.com/VeriNum/vcfloat) and [LAProof](https://github.com/VeriNum/LAProof) libraries for the [Coq Proof Assistant](https://coq.inria.fr/).
 
