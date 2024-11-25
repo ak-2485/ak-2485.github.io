@@ -36,3 +36,4 @@ I can be reached by email at [ak2485@cornell.edu](mailto:ak2485@cornell.edu).
 
 ## Education 
 + BSc with honors in astrophysics from UC Santa Cruz
++ PhD in computer science from Cornell University (defended November 2024, degree expected December 31,2024)
