@@ -28,6 +28,9 @@ I can be reached by email at [ak2485@cornell.edu](mailto:ak2485@cornell.edu).
 
 **2024**\. **The first tri-lab workshop on formal verification: Capabilities, challenges, research opportunities, and exemplars**. S. D. Pollard, J. M. Aytac, A. Kellison, I. Laguna, S. Nedunuri, S. Reis, M. J. Sottile, and H. K. Thornquist. Technical report, Sandia National Laboratories. [[Report](https://www.sandia.gov/app/uploads/sites/222/2024/02/twofv23_report.pdf)]
 
+## Service
+I am serving on the Program Committee for [[PLDI 2025](https://pldi25.sigplan.org)] and on the Artifact Evaluation Committee for [[POPL 2025](https://popl25.sigplan.org/track/POPL-2025-artifact-evaluation)]. Previously, I have contributed as an external reviewer for [[POPL 2025](https://popl25.sigplan.org)], [[CADE 2023](https://easyconferences.eu/cade2023/)], and [[CSL 2022](https://csl2022.uni-goettingen.de/)].
+
 ## Fellowships
 + [Department of Energy Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/) [2020-2024 cohort]
 
