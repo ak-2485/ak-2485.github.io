@@ -33,10 +33,10 @@ I am serving on the Program Committee for [PLDI 2025](https://pldi25.sigplan.org
 [CADE 2023](https://easyconferences.eu/cade2023/), and [CSL 2022](https://csl2022.uni-goettingen.de/).
 
 ## Fellowships
-+ [Department of Energy Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/) [2020-2024 cohort]
+[Department of Energy Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/) [2020-2024 cohort]
 
 ## Teaching Experience 
-+ Lecturer, Cornell CS 1110 - Introduction to Computing Using Python [Summer 2020]
+Lecturer, Cornell CS 1110 - Introduction to Computing Using Python [Summer 2020]
 
 ## Education 
 + BSc with honors in astrophysics from UC Santa Cruz
