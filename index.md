@@ -39,5 +39,6 @@ I am serving on the Program Committee for [PLDI 2025](https://pldi25.sigplan.org
 Lecturer, Cornell CS 1110 - Introduction to Computing Using Python [Summer 2020]
 
 ## Education 
-+ BSc with honors in astrophysics from UC Santa Cruz
 + PhD in computer science from Cornell University (defended November 2024, degree expected December 31, 2024)
++ BSc with honors in astrophysics from UC Santa Cruz
+
