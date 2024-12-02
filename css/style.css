@@ -1,19 +1,58 @@
 @import "styledep.css";
 
-header img { 
-  width: 7rem; 
-  float: right; 
+/* Global Variables */
+:root {
+  --main-font: "Computer Modern", sans-serif;
+  --link-color: rgb(46, 114, 209);
+  --vertical-line-color: #a7e4d2;
 }
 
-header + p { 
-  clear: both; 
-  margin-top: 2rem; 
+/* General Styling */
+body {
+  font-family: var(--main-font);
+  padding-top: 5%;
+  margin: 0 auto;
+  max-width: 1200px; /* Updated for flexible width */
+  line-height: 1.6;
 }
 
+.main {
+  display: grid; /* Use grid for layout */
+  grid-template-columns: 1fr 3fr; /* Sidebar and main content */
+  gap: 2rem;
+  padding-bottom: 5%;
+}
+
+/* Vertical Line */
+.vl {
+  border-left: 3px solid var(--vertical-line-color);
+  position: absolute; /* Adjusted for dynamic behavior */
+  height: 60%;
+}
+
+/* Header Styling */
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-right: 4%;
+}
+
+header img {
+  width: 7rem;
+}
+
+/* Clear Header Floating */
+header + p {
+  clear: both;
+  margin-top: 2rem;
+}
+
+/* Navigation */
 nav ul {
   list-style-type: none;
   margin: 0;
-  padding: 0; 
+  padding: 0;
   text-align: left;
 }
 
@@ -25,8 +64,8 @@ nav ul li {
 
 nav ul li::before {
   content: "·";
-  margin-right: .5rem;
-  margin-left: .25rem;
+  margin-right: 0.5rem;
+  margin-left: 0.25rem;
 }
 
 nav ul li:first-child::before {
@@ -35,89 +74,69 @@ nav ul li:first-child::before {
   padding: 0;
 }
 
-footer { 
-  margin-top: 2rem; 
-  margin-bottom: 2rem; 
-  font-size: .65rem; 
+/* Links */
+a:link {
+  color: var(--link-color);
+  background-color: transparent;
+  text-decoration: underline;
 }
 
-
-@media screen and (max-width: 480px) {
-  body {
-    font-size: .9rem; 
-  }  
-
-  header img { 
-    width: 3.5rem; 
-    float: right; 
-  }
-
-  footer { 
-    font-size: .6rem; 
-  }
+a:hover {
+  text-decoration: none;
 }
 
-@media screen and (max-width: 375px) {
-  body {
-    font-size: .65rem; 
-  }  
-
-  header img { 
-    width: 3rem; 
-    float: right; 
-  }
-
-  nav ul li::before {
-    content: "·";
-    margin-right: .3rem;
-    margin-left: .15rem;
-  }
-
-  footer { 
-    font-size: .45rem; 
-  }
-}@font-face {
-  font-family: "Computer Modern";
-  src: url('academicons.ttf') format('truetype');
+/* Footer */
+footer {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  font-size: 0.8rem; /* Updated for better readability */
+  text-align: center;
 }
 
-body {
-  font-family: "Computer Modern";
-  padding-top: 5%;
-  padding-left: 15%;
-  padding-right: 15%;
-}
-
-.main {
-  padding-left:10%;
-  padding-bottom:5%;
-}
-
-.vl {
-  border-left: 3px solid #a7e4d2;
-  position:fixed;
-  height: 60%;
-}
-
-header {
-  float:left;
-  padding-right: 4%;
-}
-
+/* Bio Section */
 .bio {
-  clear:left;
+  clear: left;
   padding-top: 1%;
 }
 
 @media (min-width: 700px) {
   .bio {
-    clear:none;
+    clear: none;
     padding-top: 0%;
   }
 }
 
-a:link {
-  color: rgb(46, 114, 209);
-  background-color: transparent;
-  text-decoration: underline;
+/* Responsive Adjustments */
+@media screen and (max-width: 480px) {
+  body {
+    font-size: 0.9rem; /* Adjusted for readability */
+  }
+
+  header img {
+    width: 4rem; /* Updated for better visibility */
+  }
+
+  footer {
+    font-size: 0.7rem;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  body {
+    font-size: 0.8rem; /* Avoid overly small font */
+  }
+
+  header img {
+    width: 3.5rem;
+  }
+
+  nav ul li::before {
+    content: "·";
+    margin-right: 0.3rem;
+    margin-left: 0.15rem;
+  }
+
+  footer {
+    font-size: 0.6rem;
+  }
 }
