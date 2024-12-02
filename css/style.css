@@ -12,69 +12,82 @@
 }
 
 body {
-  max-width: 1000px; /* Increase width to reduce the column effect */
-  margin: auto;
-  padding: 2rem;
+  display: flex;
+  justify-content: center; /* Horizontally center content */
+  align-items: center;    /* Vertically center content */
+  min-height: 100vh;      /* Full viewport height */
+  margin: 0;
   background: var(--b-bg-1);
   font-family: var(--b-font-main);
-  line-height: 1.5;
+  line-height: 1.6;
   color: var(--b-txt);
 }
 
+.container {
+  max-width: 800px; /* Adjust width as needed */
+  padding: 2rem;
+  background: var(--b-bg-2);
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: left; /* Ensure all text blocks are left-aligned */
+}
+
 header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between; /* Distribute elements across the header */
+  text-align: center; /* Center header elements only */
   margin-bottom: 2rem;
 }
 
 header img {
-  width: 5rem;
-  border-radius: 50%; /* Optional for rounded images */
+  width: 7rem;
+  margin-bottom: 1rem;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2rem;
 }
 
 nav {
-  display: flex;
-  justify-content: center; /* Center navigation links */
-  gap: 1rem; /* Space between links */
+  text-align: center; /* Center navigation links */
   margin-bottom: 2rem;
 }
 
 nav ul {
-  display: flex;
-  gap: 1rem; /* Space between list items */
   list-style: none;
-  padding: 0;
   margin: 0;
+  padding: 0;
+  display: inline-block; /* Keep links in a row */
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 0.5rem;
+}
+
+nav a {
+  color: var(--b-link);
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
 }
 
 main {
-  display: grid;
-  grid-template-columns: 1fr 1fr; /* Two-column layout */
-  gap: 2rem; /* Space between columns */
+  margin-bottom: 2rem;
 }
 
-section {
-  background: var(--b-bg-2);
-  padding: 1rem;
-  border-radius: 5px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+main h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+main p {
+  margin-bottom: 1.5rem;
 }
 
 footer {
   text-align: center;
-  margin-top: 2rem;
   font-size: 0.875rem;
-  color: var(--b-txt);
-}
-
-@media screen and (max-width: 768px) {
-  main {
-    grid-template-columns: 1fr; /* Single column on smaller screens */
-  }
-
-  header {
-    flex-direction: column; /* Stack header items vertically */
-    text-align: center;
-  }
+  color: #666;
 }
