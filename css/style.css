@@ -1,105 +1,118 @@
+/* Import dependencies */
 @import "styledep.css";
 
-/* Global Variables */
-:root {
-  --main-font: "Computer Modern", sans-serif;
-  --link-color: rgb(46, 114, 209);
-  --background-color: #f9f9f9;
-  --text-color: #333;
-  --vertical-line-color: #a7e4d2;
-}
-
-/* General Styling */
+/* Global Styles */
 body {
-  font-family: var(--main-font);
+  font-family: "Computer Modern", sans-serif;
   margin: 0;
   padding: 0;
-  background-color: var(--background-color);
-  color: var(--text-color);
-  line-height: 1.6;
+  background-color: #fff;
 }
 
+/* Centering the Main Container */
 .container {
-  max-width: 800px; /* Center the content */
-  margin: 0 auto; /* Center horizontally */
-  padding: 2rem 1rem; /* Space around the blocks */
-  text-align: center; /* Center text */
+  max-width: 800px; /* Adjust the width as needed */
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* Header Styling */
+header {
+  text-align: center;
+  margin-bottom: 2rem;
 }
 
 header img {
-  width: 8rem; /* Adjust size of the profile image */
-  border-radius: 50%; /* Make the image circular */
-  margin: 1rem auto; /* Center the image */
-  display: block; /* Ensure it aligns properly */
+  width: 7rem;
+  margin-bottom: 1rem;
 }
 
 header h1 {
+  margin: 0;
   font-size: 2rem;
-  margin-bottom: 0.5rem;
 }
 
-header p {
-  font-size: 1.2rem;
-  color: var(--link-color);
-  margin: 0;
+/* Navigation Styling */
+nav {
+  text-align: center;
+  margin-bottom: 2rem;
 }
 
 nav ul {
-  list-style: none;
+  list-style-type: none;
+  margin: 0;
   padding: 0;
-  margin: 2rem 0;
-  display: flex;
-  justify-content: center;
-  gap: 1rem;
-}
-
-nav ul li {
   display: inline-block;
 }
 
-nav ul li a {
-  color: var(--link-color);
-  text-decoration: none;
-  font-size: 1rem;
+nav ul li {
+  display: inline;
+  margin: 0 0.5rem;
 }
 
-nav ul li a:hover {
+nav ul li::before {
+  content: "·";
+  margin: 0 0.5rem;
+}
+
+nav ul li:first-child::before {
+  content: "";
+  margin: 0;
+}
+
+nav a {
+  color: rgb(46, 114, 209);
+  text-decoration: none;
+}
+
+nav a:hover {
   text-decoration: underline;
 }
 
-/* Section Styling */
-section {
-  margin: 2rem 0;
+/* Main Content */
+.main {
+  text-align: center;
 }
 
-section h2 {
+.main h2 {
   font-size: 1.5rem;
   margin-bottom: 1rem;
 }
 
-section p {
+.main p {
+  line-height: 1.6;
   margin-bottom: 1.5rem;
 }
 
-/* Footer */
+/* Footer Styling */
 footer {
-  margin-top: 3rem;
+  text-align: center;
+  margin-top: 2rem;
   font-size: 0.8rem;
-  color: #777;
+  color: #666;
 }
 
 /* Responsive Adjustments */
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 700px) {
   body {
     font-size: 0.9rem;
   }
 
   header img {
-    width: 6rem; /* Smaller image on mobile */
+    width: 5rem;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  body {
+    font-size: 0.8rem;
   }
 
-  nav ul {
-    flex-direction: column; /* Stack navigation on small screens */
-    gap: 0.5rem;
+  header img {
+    width: 4rem;
+  }
+
+  footer {
+    font-size: 0.7rem;
   }
 }
