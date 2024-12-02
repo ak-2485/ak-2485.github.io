@@ -15,7 +15,7 @@ header img {
   float: left; 
 }
 
-header + p { 
+p + header { 
   clear: both; 
   margin-top: 2rem; 
 }
