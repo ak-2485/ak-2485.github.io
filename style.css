@@ -16,9 +16,9 @@ body {
 }
 
 .vl {
-  border-left: 3px solid #AFE1AF;
+  border-left: 3px solid #C1E1C1;
   position:fixed;
-  height: 80%;
+  height: 60%;
 }
 
 header {
