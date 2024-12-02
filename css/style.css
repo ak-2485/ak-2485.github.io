@@ -2,7 +2,7 @@
 --b-font-main: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 --b-font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 --b-txt: #2e3440;--b-bg-1: #fff;--b-bg-2: #eceff4;--b-line: #eceff4;
---b-link: #68bad8;--b-btn-bg: #242933;--b-btn-txt: #fff;--b-focus: #88c0d0
+--b-link: #529eb9;--b-btn-bg: #242933;--b-btn-txt: #fff;--b-focus: #88c0d0
 }*,::before,::after{
 box-sizing:border-box}html:focus-within{scroll-behavior:smooth}body{max-width:70ch;padding:0 1rem;margin:auto;background:var(--b-bg-1);
 font-family:var(--b-font-main);text-rendering:optimizeSpeed;line-height:1.5;color:var(--b-txt);-moz-tab-size:4;tab-size:4;word-break:break-word;
