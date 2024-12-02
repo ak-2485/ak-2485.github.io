@@ -11,83 +11,80 @@
   --b-focus: #88c0d0;
 }
 
-body {
-  display: flex;
-  justify-content: center; /* Horizontally center content */
-  align-items: center;    /* Vertically center content */
-  min-height: 100vh;      /* Full viewport height */
-  margin: 0;
-  background: var(--b-bg-1);
-  font-family: var(--b-font-main);
-  line-height: 1.6;
-  color: var(--b-txt);
+header img { 
+  width: 7rem; 
+  float: right; 
 }
 
-.container {
-  max-width: 800px; /* Adjust width as needed */
-  padding: 2rem;
-  background: var(--b-bg-2);
-  border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  text-align: left; /* Ensure all text blocks are left-aligned */
-}
-
-header {
-  text-align: center; /* Center header elements only */
-  margin-bottom: 2rem;
-}
-
-header img {
-  width: 7rem;
-  margin-bottom: 1rem;
-}
-
-header h1 {
-  margin: 0;
-  font-size: 2rem;
-}
-
-nav {
-  text-align: center; /* Center navigation links */
-  margin-bottom: 2rem;
+header + p { 
+  clear: both; 
+  margin-top: 2rem; 
 }
 
 nav ul {
-  list-style: none;
+  list-style-type: none;
   margin: 0;
-  padding: 0;
-  display: inline-block; /* Keep links in a row */
+  padding: 0; 
+  text-align: left;
 }
 
 nav ul li {
-  display: inline;
-  margin: 0 0.5rem;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
 }
 
-nav a {
-  color: var(--b-link);
-  text-decoration: none;
+nav ul li::before {
+  content: "·";
+  margin-right: .5rem;
+  margin-left: .25rem;
 }
 
-nav a:hover {
-  text-decoration: underline;
+nav ul li:first-child::before {
+  content: "";
+  margin: 0;
+  padding: 0;
 }
 
-main {
-  margin-bottom: 2rem;
+footer { 
+  margin-top: 2rem; 
+  margin-bottom: 2rem; 
+  font-size: .65rem; 
 }
 
-main h2 {
-  font-size: 1.5rem;
-  margin-bottom: 1rem;
+
+@media screen and (max-width: 480px) {
+  body {
+    font-size: .9rem; 
+  }  
+
+  header img { 
+    width: 3.5rem; 
+    float: right; 
+  }
+
+  footer { 
+    font-size: .6rem; 
+  }
 }
 
-main p {
-  margin-bottom: 1.5rem;
-}
+@media screen and (max-width: 375px) {
+  body {
+    font-size: .65rem; 
+  }  
 
-footer {
-  text-align: center;
-  font-size: 0.875rem;
-  color: #666;
+  header img { 
+    width: 3rem; 
+    float: right; 
+  }
+
+  nav ul li::before {
+    content: "·";
+    margin-right: .3rem;
+    margin-left: .15rem;
+  }
+
+  footer { 
+    font-size: .45rem; 
+  }
 }
