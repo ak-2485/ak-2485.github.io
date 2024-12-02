@@ -15,7 +15,7 @@ header img {
   float: left; 
 }
 
-p + header { 
+header + p { 
   clear: both; 
   margin-top: 2rem; 
 }
@@ -35,8 +35,8 @@ nav ul li {
 
 nav ul li::before {
   content: "·";
-  margin-right: .5rem;
-  margin-left: .25rem;
+  margin-right: .25rem;
+  margin-left: .5rem;
 }
 
 nav ul li:first-child::before {
@@ -74,13 +74,13 @@ footer {
 
   header img { 
     width: 3rem; 
-    float: right; 
+    float: left; 
   }
 
   nav ul li::before {
     content: "·";
-    margin-right: .3rem;
-    margin-left: .15rem;
+    margin-right: .15rem;
+    margin-left: .3rem;
   }
 
   footer { 
