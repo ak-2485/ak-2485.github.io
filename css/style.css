@@ -83,10 +83,3 @@ footer {
     font-size: .45rem; 
   }
 }
-
-/* Style for subheading */
-h2 {
-  font-size: 1.5rem; /* Adjust the size of the subheading */
-  margin-top: 1.5rem; /* Add spacing before the subheading */
-  color: #2e3440; /* Set a color for the subheading */
-}
