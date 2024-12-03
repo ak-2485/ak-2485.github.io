@@ -83,3 +83,7 @@ footer {
     font-size: .45rem; 
   }
 }
+
+tr { 
+  border: 0; 
+}
