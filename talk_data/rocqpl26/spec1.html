@@ -89,19 +89,15 @@
 
 <body>
   <div class="code-scroll">
-<pre><code class="language-coq">Inductive nat : Type :=
-| O : nat
-| S : nat -> nat.
+<pre><code class="language-coq">
+Definition dotprod [n: nat] (x: 'rV[ftype t]_n) (y: 'cV[ftype t]_n) : ftype t :=
+   \big[BPLUS / pos_zero]_i (BMULT (x ord0 (rev_ord i)) (y (rev_ord i) ord0)).
 
-Theorem plus_O_n : forall n, 0 + n = n.
-Proof.
-  intros n. simpl. reflexivity.
-Qed.
+Definition FMA_dotprod [n: nat] (x: 'rV[ftype t]_n) (y: 'cV[ftype t]_n) : ftype t :=
+   fma_dotprod (seq_of_rV x) (seq_of_rV y^T).
 
-Theorem plus_n_O : forall n, n + 0 = n.
-Proof.
-  induction n; simpl; auto.
-Qed.
+Definition mulmx [m n p] (A: 'M[ftype t]_(m,n)) (B: 'M[ftype t]_(n,p)) :=
+ \matrix_(i,k) dotprod (row i A) (col k B).
 </code></pre>
   </div>
 </body>
