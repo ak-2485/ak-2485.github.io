@@ -2,111 +2,66 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <!-- Highlight.js theme (pick any) -->
+  <!-- Highlight.js theme -->
   <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github-dark.min.css">
 
   <script defer src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
-
-  <!-- Coq language definition -->
   <script defer src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/languages/coq.min.js"></script>
-
   <script defer>
     window.addEventListener("DOMContentLoaded", () => hljs.highlightAll());
   </script>
 
   <style>
-    :root {
-      /* Tweak these to match your reveal theme */
-      --bg1: #0b1020;
-      --bg2: #111827;
-      --card: rgba(255,255,255,0.06);
-      --border: rgba(255,255,255,0.10);
-      --text: rgba(255,255,255,0.92);
-      --muted: rgba(255,255,255,0.70);
-    }
-
-    html, body { height: 100%; }
-    body {
+    html, body {
       margin: 0;
-      color: var(--text);
-      font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
-
-      /* “slide background” */
-      background: radial-gradient(1200px 800px at 20% 10%, var(--bg2), var(--bg1));
-    }
-
-    .frame {
+      padding: 0;
       height: 100%;
-      box-sizing: border-box;
-      padding: 48px 56px;
-      display: flex;
-      flex-direction: column;
-      gap: 18px;
+      background: #0b1020; /* slide background */
     }
 
-    h2 {
-      margin: 0;
-      font-size: 42px;
-      letter-spacing: -0.02em;
-    }
-
-    .subtitle {
-      margin: 0;
-      color: var(--muted);
-      font-size: 18px;
-    }
-
-    /* “card” container */
-    .card {
-      flex: 1;
-      background: var(--card);
-      border: 1px solid var(--border);
-      border-radius: 18px;
-      padding: 18px;
-      overflow: hidden;
-      display: flex;
-      flex-direction: column;
-    }
-
-    /* scroll area for code */
+    /* Scroll container */
     .code-scroll {
-      flex: 1;
+      box-sizing: border-box;
+      height: 100vh;            /* critical: viewport-based */
+      padding: 32px;
       overflow: auto;
-      border-radius: 12px;
     }
 
-    /* highlight.js outputs styles on code; we just tune sizing */
-    pre { margin: 0; }
+    pre {
+      margin: 0;
+    }
+
     pre code {
       display: block;
-      padding: 16px 18px;
+      padding: 20px 24px;
+      background: #0d1117;      /* code background */
+      border-radius: 14px;
       font-size: 18px;
       line-height: 1.35;
-      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
-      tab-size: 2;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco,
+                   Consolas, "Liberation Mono", monospace;
+      white-space: pre;
     }
 
-    /* Optional: nicer scrollbar (works in WebKit) */
-    .code-scroll::-webkit-scrollbar { width: 10px; height: 10px; }
+    /* Optional: visible scrollbar */
+    .code-scroll::-webkit-scrollbar {
+      width: 10px;
+    }
     .code-scroll::-webkit-scrollbar-thumb {
-      background: rgba(255,255,255,0.18);
+      background: rgba(255,255,255,0.25);
       border-radius: 999px;
     }
-    .code-scroll::-webkit-scrollbar-track { background: rgba(0,0,0,0.15); }
+    .code-scroll::-webkit-scrollbar-track {
+      background: rgba(0,0,0,0.2);
+    }
   </style>
 </head>
 
 <body>
-  <div class="frame">
-    <h2>Coq: tiny example</h2>
-    <p class="subtitle">Specification as executable prose (toy)</p>
-
-    <div class="card">
-      <div class="code-scroll">
-        <pre><code class="language-coq">Inductive nat : Type :=
+  <div class="code-scroll">
+<pre><code class="language-coq">Inductive nat : Type :=
 | O : nat
 | S : nat -> nat.
 
@@ -114,9 +69,12 @@ Theorem plus_O_n : forall n, 0 + n = n.
 Proof.
   intros n. simpl. reflexivity.
 Qed.
+
+Theorem plus_n_O : forall n, n + 0 = n.
+Proof.
+  induction n; simpl; auto.
+Qed.
 </code></pre>
-      </div>
-    </div>
   </div>
 </body>
 </html>
